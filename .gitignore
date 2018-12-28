@@ -1,0 +1,12 @@
+*.pdb
+/ImGui/x64/Debug/ImGui.tlog/*.tlog
+*.ipch
+*.obj
+*.tlog
+*.idb
+*.pch
+*.exe
+*.log
+*.iobj
+*.ipdb
+*.opendb
